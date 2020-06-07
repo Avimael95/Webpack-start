@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Aquí es donde esta los estilos globales de la aplicacion */
+body
+{
+ font-size: 18px;
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: #f2f2f2;
+}
